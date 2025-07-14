@@ -10,3 +10,8 @@ def findLargest(arr):
 
     return largest
 
+# arr = [10,5,20,8,25,3]
+# result = findLargest(arr)
+# print(result)
+findLargest([10, 5, 20, 8, 25, 3])  # Example usage
+# Output: 25
