@@ -1,5 +1,5 @@
-def maxconsecutivenumber(arr):
-    if not arr:
+def maxconsecutivenumber(nums):
+    if not nums:
         return None # Handle empty array
     max_count = 0
     count = 1
